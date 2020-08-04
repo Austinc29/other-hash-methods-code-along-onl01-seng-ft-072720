@@ -16,4 +16,3 @@ def get_the_keys(groceries)
     grains: ["rice","pasta"]
   }
 end
-groceries.keys 
